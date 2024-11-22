@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441996886277",
+    "project_id": "scavia-notification",
+    "storage_bucket": "scavia-notification.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441996886277:android:37360c74fde5b814ab776c",
+        "android_client_info": {
+          "package_name": "com.booms_sk8.scaviapushnotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV3LfWHmxhgoNhLeJtSzG6keQQyFxUtDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
